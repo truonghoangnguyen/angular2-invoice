@@ -1,0 +1,15 @@
+.odd_row{
+    background:#f9f9f9;
+}
+
+.right_placeholder{
+    text-align:right;
+}
+
+.heading {
+    background-color: #357EBD;
+    color: #FFF;
+    margin-bottom: 3em;
+    text-align: center;
+    line-height: 1.2em;
+  }
